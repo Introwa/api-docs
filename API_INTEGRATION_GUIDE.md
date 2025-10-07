@@ -161,3 +161,18 @@ You can easily copy it directly from the Job Details page, ensuring that your AP
 
 <img width="848" height="549" alt="image7" src="https://github.com/user-attachments/assets/af2b2005-7dca-4b20-b741-6e923b62395f" />
 
+---
+
+## 🙌 Thank You
+
+Thank you for using **Introwa API**!  
+We’re excited to see what you build with it — from smarter interview workflows to seamless candidate experiences.  
+
+If you have any questions or feedback, feel free to reach out at [support@introwa.com](mailto:support@introwa.com).
+
+---
+
+<p align="center">
+  <sub>© 2025 Introwa Inc. • Built with ❤️ for modern hiring teams</sub>
+</p>
+
