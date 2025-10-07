@@ -1,5 +1,34 @@
+---
+Title: "Introwa API Integration Guide"
+Description: "Comprehensive guide to integrating Introwa’s API for managing job postings, interview workflows, and candidate invitations."
+version: "1.0.0"
+author: "Introwa Engineering Team"
+last_updated: "October 2025"
+---
 
-# 🌐 Introwa API Integration Guide
+<p align="center">
+  <img width="200" height="200" alt="Introwa Logo" src="https://github.com/user-attachments/assets/7863f485-a801-4e15-bf39-6452d915fe9e" />
+</p>
+
+<h1 align="center">🧩 Introwa API Integration Guide</h1>
+
+<p align="center">
+  <em>Automate job postings, streamline interview workflows, and invite candidates programmatically with Introwa’s API.</em>
+</p>
+
+---
+
+## 📘 Table of Contents
+
+1. [Accessing Your Introwa Account](-accessing-your-introwa-account)
+2. [Navigating to the Interviews Section](#navigating-to-the-interviews-section)
+3. [Creating a Job Post with AI Assistance](#creating-a-job-post-with-ai-assistance)
+4. [Reviewing and Customizing Interview Questions](#reviewing-and-customizing-interview-questions)
+5. [Generating API Keys for Candidate Invitations](#generating-api-keys-for-candidate-invitations)
+6. [Integrating with cURL (Candidate Invitations)](#integrating-with-curl-candidate-invitations)
+7. [Retrieving the Job ID](#retrieving-the-job-id)
+
+# Introwa API Integration Guide
 
 This guide provides a comprehensive overview of how to integrate with the **Introwa API**, enabling you to seamlessly manage job postings and candidate invitations. Follow these detailed steps to leverage Introwa's powerful features.
 
