@@ -104,6 +104,10 @@ This guide provides a comprehensive overview of how to integrate with the **Intr
 
 ## 🧩 Integrating with cURL (Candidate Invitations)
 
+Before sending any invitations, ensure this feature is enabled here.
+
+<img width="1075" height="571" alt="image" src="https://github.com/user-attachments/assets/5ac97cd7-2acb-467a-a261-b9d167843b55" />
+
 With your API key in hand, you can now integrate the provided cURL command into your system to send invitations to candidates for this specific job post.
 
 ```bash
