@@ -20,7 +20,7 @@ last_updated: "October 2025"
 
 ## 📘 Table of Contents
 
-1. [Accessing Your Introwa Account](#accessing-your-introwa-account)
+1. [Accessing Your Introwa Account](#-accessing-your-introwa-account)
 2. [Navigating to the Interviews Section](#navigating-to-the-interviews-section)
 3. [Creating a Job Post with AI Assistance](#creating-a-job-post-with-ai-assistance)
 4. [Reviewing and Customizing Interview Questions](#reviewing-and-customizing-interview-questions)
