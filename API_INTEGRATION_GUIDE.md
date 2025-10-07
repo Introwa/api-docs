@@ -107,7 +107,7 @@ This guide provides a comprehensive overview of how to integrate with the **Intr
 With your API key in hand, you can now integrate the provided cURL command into your system to send invitations to candidates for this specific job post.
 
 ```bash
-curl --location 'https://assessai.excenzo.com/api/v1/job-description/<job-id>/invite' \
+curl --location 'https://api.introwa.com/api/v1/job-description/<job-id>/invite' \
 --header 'x-api-key: <api-key>' \
 --header 'Content-Type: application/json' \
 --data-raw '{
