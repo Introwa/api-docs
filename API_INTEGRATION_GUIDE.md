@@ -173,6 +173,6 @@ If you have any questions or feedback, feel free to reach out at [support@introw
 ---
 
 <p align="center">
-  <sub>© 2025 Introwa Inc. • Built with ❤️ for modern hiring teams</sub>
+  <sub>© 2025 Introwa • Built with ❤️ for modern hiring teams</sub>
 </p>
 
