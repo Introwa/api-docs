@@ -168,7 +168,7 @@ You can easily copy it directly from the Job Details page, ensuring that your AP
 Thank you for using **Introwa API**!  
 We’re excited to see what you build with it — from smarter interview workflows to seamless candidate experiences.  
 
-If you have any questions or feedback, feel free to reach out at [support@introwa.com](mailto:support@introwa.com).
+If you have any questions or feedback, feel free to reach out at [contact@introwa.com](mailto:contact@introwa.com).
 
 ---
 
